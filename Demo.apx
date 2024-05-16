@@ -2,4 +2,10 @@ public class Demo{
   public void show(){
     System.debug('Hello Git');
   }
+  public void sum(){
+	integer a=10;
+	integer b=20;
+	integer res=a+b;
+	System.debug(res);
+}
 }
